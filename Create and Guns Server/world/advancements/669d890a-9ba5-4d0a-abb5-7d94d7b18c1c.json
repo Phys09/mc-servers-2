@@ -5,15 +5,28 @@
     },
     "done": true
   },
-  "lootr:social": {
+  "create:hand_crank_000": {
     "criteria": {
-      "opened_chest": "2023-05-19 19:45:44 -0400"
+      "0": "2023-05-28 14:57:25 -0400"
     },
-    "done": false
+    "done": true
   },
-  "farmersdelight:main/root": {
+  "immersiveengineering:main/craft_treatedwood": {
     "criteria": {
-      "seeds": "2023-05-19 19:29:50 -0400"
+      "has_item": "2023-05-28 19:39:05 -0400"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2023-05-25 23:16:26 -0400",
+      "1": "2023-05-25 23:23:16 -0400"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2023-05-28 16:18:40 -0400"
     },
     "done": true
   },
@@ -41,23 +54,235 @@
     },
     "done": true
   },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2023-05-19 22:29:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2023-05-24 16:37:49 -0400"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2023-05-23 22:17:09 -0400"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2023-05-25 22:46:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2023-05-28 13:59:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2023-05-19 20:36:38 -0400"
+    },
+    "done": true
+  },
+  "ae2:main/crafting_terminal": {
+    "criteria": {
+      "certus": "2023-05-24 11:09:32 -0400"
+    },
+    "done": true
+  },
+  "ae2:main/fluix": {
+    "criteria": {
+      "certus": "2023-05-23 23:03:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2023-05-20 00:06:53 -0400"
+    },
+    "done": true
+  },
+  "create:steam_engine": {
+    "criteria": {
+      "0": "2023-05-28 16:19:41 -0400"
+    },
+    "done": true
+  },
+  "ae2:main/glass_cable": {
+    "criteria": {
+      "certus": "2023-05-23 23:04:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2023-05-19 19:36:06 -0400",
+      "minecraft:beach": "2023-05-19 21:06:17 -0400",
+      "minecraft:river": "2023-05-19 20:35:48 -0400",
+      "minecraft:snowy_plains": "2023-05-19 19:29:52 -0400",
+      "minecraft:snowy_taiga": "2023-05-19 19:33:50 -0400",
+      "minecraft:dripstone_caves": "2023-05-19 21:45:07 -0400",
+      "minecraft:cold_ocean": "2023-05-19 21:06:51 -0400",
+      "minecraft:forest": "2023-05-19 20:51:40 -0400",
+      "minecraft:plains": "2023-05-19 20:35:37 -0400"
+    },
+    "done": false
+  },
+  "projecte:transmutation_tablet": {
+    "criteria": {
+      "trans_tablet": "2023-05-23 16:03:50 -0400"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2023-05-25 23:14:33 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2023-05-19 21:47:04 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2023-05-19 19:29:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2023-05-28 13:54:28 -0400"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2023-05-25 23:15:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-05-19 19:39:03 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "has_item": "2023-05-28 13:33:08 -0400"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2023-05-19 19:45:54 -0400"
+    },
+    "done": true
+  },
+  "projecte:root": {
+    "criteria": {
+      "philstone_recipe": "2023-05-24 10:46:15 -0400"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2023-05-20 00:09:42 -0400"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2023-05-25 23:12:32 -0400"
+    },
+    "done": true
+  },
+  "tetra:spelunking/root": {
+    "criteria": {
+      "spelunking": "2023-05-19 21:32:15 -0400"
+    },
+    "done": true
+  },
+  "ae2:main/growth_accelerator": {
+    "criteria": {
+      "certus": "2023-05-23 23:05:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2023-05-19 21:30:24 -0400"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2023-05-23 22:17:09 -0400"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2023-05-19 19:45:44 -0400"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2023-05-19 19:45:44 -0400"
+    },
+    "done": false
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2023-05-19 19:29:50 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2023-05-24 16:38:04 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/creosote": {
+    "criteria": {
+      "has_item": "2023-05-28 19:38:33 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/mb_cokeoven": {
+    "criteria": {
+      "form_multiblock": "2023-05-28 18:07:37 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2023-05-24 12:17:45 -0400",
+      "minecraft:blaze": "2023-05-28 13:58:33 -0400",
       "minecraft:skeleton": "2023-05-19 21:33:20 -0400",
       "minecraft:spider": "2023-05-19 21:44:28 -0400",
+      "minecraft:creeper": "2023-05-23 22:39:20 -0400",
+      "minecraft:phantom": "2023-05-23 20:53:00 -0400",
+      "minecraft:zombified_piglin": "2023-05-24 23:50:49 -0400",
       "minecraft:witch": "2023-05-19 21:33:37 -0400",
+      "minecraft:wither_skeleton": "2023-05-28 13:57:50 -0400",
       "minecraft:cave_spider": "2023-05-19 21:33:45 -0400",
       "quark:wraith": "2023-05-20 00:07:57 -0400",
       "minecraft:zombie": "2023-05-19 21:30:24 -0400",
       "quark:foxhound": "2023-05-20 00:13:01 -0400"
     },
     "done": false
-  },
-  "farmersdelight:main/use_cutting_board": {
-    "criteria": {
-      "cutting_board": "2023-05-19 22:29:51 -0400"
-    },
-    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -82,51 +307,62 @@
       "baked_potato": "2023-05-19 19:47:44 -0400",
       "apple": "2023-05-19 23:12:40 -0400",
       "potato": "2023-05-19 19:39:03 -0400",
+      "bread": "2023-05-24 16:39:48 -0400",
       "carrot": "2023-05-19 23:07:57 -0400"
     },
     "done": false
   },
-  "minecraft:story/mine_stone": {
+  "ae2:main/presses": {
     "criteria": {
-      "get_stone": "2023-05-19 20:36:38 -0400"
+      "calculation": "2023-05-23 22:11:15 -0400",
+      "silicon": "2023-05-23 22:11:15 -0400",
+      "engineering": "2023-05-23 22:11:16 -0400",
+      "logic": "2023-05-23 22:11:15 -0400"
     },
     "done": true
   },
-  "minecraft:nether/root": {
+  "ae2:main/controller": {
     "criteria": {
-      "entered_nether": "2023-05-20 00:06:53 -0400"
+      "certus": "2023-05-24 10:51:43 -0400"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "create:chute": {
     "criteria": {
-      "minecraft:frozen_river": "2023-05-19 19:36:06 -0400",
-      "minecraft:beach": "2023-05-19 21:06:17 -0400",
-      "minecraft:river": "2023-05-19 20:35:48 -0400",
-      "minecraft:snowy_plains": "2023-05-19 19:29:52 -0400",
-      "minecraft:snowy_taiga": "2023-05-19 19:33:50 -0400",
-      "minecraft:dripstone_caves": "2023-05-19 21:45:07 -0400",
-      "minecraft:cold_ocean": "2023-05-19 21:06:51 -0400",
-      "minecraft:forest": "2023-05-19 20:51:40 -0400",
-      "minecraft:plains": "2023-05-19 20:35:37 -0400"
+      "0": "2023-05-28 15:59:18 -0400"
     },
-    "done": false
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2023-05-28 13:35:30 -0400"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2023-05-28 16:06:02 -0400"
+    },
+    "done": true
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2023-05-20 00:06:53 -0400"
+      "minecraft:crimson_forest": "2023-05-24 10:18:59 -0400",
+      "minecraft:soul_sand_valley": "2023-05-20 00:06:53 -0400",
+      "minecraft:nether_wastes": "2023-05-28 13:47:25 -0400",
+      "minecraft:basalt_deltas": "2023-05-28 13:47:50 -0400"
     },
     "done": false
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "biomancy:biomancy/root": {
     "criteria": {
-      "slept_in_bed": "2023-05-19 21:47:04 -0400"
+      "has_raw_meats": "2023-05-23 22:40:40 -0400"
     },
     "done": true
   },
-  "ars_nouveau:root": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "ars_nouveau:worn_notebook": "2023-05-19 19:29:50 -0400"
+      "voluntary_exile": "2023-05-24 12:18:26 -0400"
     },
     "done": true
   },
@@ -136,21 +372,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2023-05-19 19:39:03 -0400"
-    },
-    "done": true
-  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2023-05-19 20:36:33 -0400"
     },
     "done": true
   },
-  "create_enchantment_industry:experienced_engineer": {
+  "ae2:main/storage_bus": {
     "criteria": {
-      "have_experience_nugget": "2023-05-19 19:45:54 -0400"
+      "part": "2023-05-24 00:23:13 -0400"
     },
     "done": true
   },
@@ -160,15 +390,15 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/soul_vulture": {
-    "criteria": {
-      "killed_by": "2023-05-20 00:09:42 -0400"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2023-05-19 20:56:48 -0400"
+    },
+    "done": true
+  },
+  "ae2:main/facade": {
+    "criteria": {
+      "facade": "2023-05-24 20:59:04 -0400"
     },
     "done": true
   },
@@ -178,9 +408,15 @@
     },
     "done": true
   },
-  "tetra:spelunking/root": {
+  "create:burner": {
     "criteria": {
-      "spelunking": "2023-05-19 21:32:15 -0400"
+      "0": "2023-05-28 13:55:40 -0400"
+    },
+    "done": true
+  },
+  "create:water_supply": {
+    "criteria": {
+      "0": "2023-05-28 16:06:45 -0400"
     },
     "done": true
   },
@@ -190,15 +426,21 @@
     },
     "done": true
   },
+  "create:belt": {
+    "criteria": {
+      "0": "2023-05-25 23:15:40 -0400"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2023-05-20 00:07:23 -0400"
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "projecte:philosophers_stone": {
     "criteria": {
-      "killed_something": "2023-05-19 21:30:24 -0400"
+      "philosophers_stone": "2023-05-24 16:32:43 -0400"
     },
     "done": true
   },
@@ -208,9 +450,39 @@
     },
     "done": true
   },
-  "lootr:1chest": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "opened_chest": "2023-05-19 19:45:44 -0400"
+      "obsidian": "2023-05-23 22:13:08 -0400"
+    },
+    "done": true
+  },
+  "create:windmill": {
+    "criteria": {
+      "0": "2023-05-25 23:11:19 -0400"
+    },
+    "done": true
+  },
+  "ae2:main/storage_cell": {
+    "criteria": {
+      "c64k": "2023-05-24 10:42:42 -0400"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2023-05-28 14:54:20 -0400"
+    },
+    "done": true
+  },
+  "ae2:main/charger": {
+    "criteria": {
+      "certus": "2023-05-23 22:17:17 -0400"
+    },
+    "done": true
+  },
+  "ae2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2023-05-23 22:18:12 -0400"
     },
     "done": true
   },

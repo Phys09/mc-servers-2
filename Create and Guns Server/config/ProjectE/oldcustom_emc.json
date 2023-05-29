@@ -1,0 +1,1308 @@
+{
+  "entries": [
+    {
+      "item": "farmersdelight:diamond_knife",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:diamond_shovel",
+      "emc": 0
+    },
+    {
+      "item": "constructionwand:diamond_wand",
+      "emc": 0
+    },
+    {
+      "item": "ftbquests:screen_7",
+      "emc": 0
+    },
+    {
+      "item": "minecolonies:blockhutmysticalsite",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:jukebox",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:clock",
+      "emc": 0
+    },
+    {
+      "item": "supplementaries:clock_block",
+      "emc": 0
+    },
+    {
+      "item": "quark:prismarine_trapped_chest",
+      "emc": 0
+    },
+    {
+      "item": "projecte:alchemical_chest",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:respawn_anchor",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:storage_nickel",
+      "emc": 0
+    },
+    {
+      "item": "ars_nouveau:spell_prism",
+      "emc": 0
+    },
+    {
+      "item": "effortlessbuilding:golden_randomizer_bag",
+      "emc": 0
+    },
+    {
+      "item": "ars_nouveau:ritual_moonfall",
+      "emc": 0
+    },
+    {
+      "item": "railways:jukeboxcart",
+      "emc": 0
+    },
+    {
+      "item": "ars_nouveau:void_prism",
+      "emc": 0
+    },
+    {
+      "item": "projecte:cyan_alchemical_bag",
+      "emc": 0
+    },
+    {
+      "item": "projecte:lime_alchemical_bag",
+      "emc": 0
+    },
+    {
+      "item": "projecte:green_alchemical_bag",
+      "emc": 0
+    },
+    {
+      "item": "projecte:white_alchemical_bag",
+      "emc": 0
+    },
+    {
+      "item": "projecte:purple_alchemical_bag",
+      "emc": 0
+    },
+    {
+      "item": "projecte:red_alchemical_bag",
+      "emc": 0
+    },
+    {
+      "item": "projecte:pink_alchemical_bag",
+      "emc": 0
+    },
+    {
+      "item": "projecte:orange_alchemical_bag",
+      "emc": 0
+    },
+    {
+      "item": "projecte:brown_alchemical_bag",
+      "emc": 0
+    },
+    {
+      "item": "projecte:magenta_alchemical_bag",
+      "emc": 0
+    },
+    {
+      "item": "projecte:yellow_alchemical_bag",
+      "emc": 0
+    },
+    {
+      "item": "projecte:light_blue_alchemical_bag",
+      "emc": 0
+    },
+    {
+      "item": "projecte:blue_alchemical_bag",
+      "emc": 0
+    },
+    {
+      "item": "projecte:light_gray_alchemical_bag",
+      "emc": 0
+    },
+    {
+      "item": "projecte:black_alchemical_bag",
+      "emc": 0
+    },
+    {
+      "item": "projecte:gray_alchemical_bag",
+      "emc": 0
+    },
+    {
+      "item": "quark:blaze_lantern",
+      "emc": 0
+    },
+    {
+      "item": "projecte:philosophers_stone",
+      "emc": 0
+    },
+    {
+      "item": "computercraft:turtle_normal{RightUpgrade:\"minecraft:diamond_shovel\"}",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:golden_helmet",
+      "emc": 0
+    },
+    {
+      "item": "pneumaticcraft:item_life_upgrade",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:netherite_scrap",
+      "emc": 0
+    },
+    {
+      "item": "pneumaticcraft:search_upgrade",
+      "emc": 0
+    },
+    {
+      "item": "tetra:quick_latch",
+      "emc": 0
+    },
+    {
+      "item": "ars_nouveau:ritual_disintegration",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:bell",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:golden_leggings",
+      "emc": 0
+    },
+    {
+      "item": "computercraft:computer_advanced",
+      "emc": 0
+    },
+    {
+      "item": "projecte:destruction_catalyst",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:player_head{SkullOwner:{Id:\"f3c8d69b-0776-4512-8434-d1b2165909eb\",Name:\"dan200\"}}",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:emerald",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:golden_chestplate",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:golden_horse_armor",
+      "emc": 0
+    },
+    {
+      "item": "supplementaries:netherite_door",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:diamond_sword",
+      "emc": 0
+    },
+    {
+      "item": "nethersdelight:diamond_machete",
+      "emc": 0
+    },
+    {
+      "item": "structurize:shapetool",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:diamond_hoe",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:trident",
+      "emc": 0
+    },
+    {
+      "item": "supplementaries:speaker_block",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:golden_apple",
+      "emc": 0
+    },
+    {
+      "item": "computercraft:pocket_computer_normal",
+      "emc": 0
+    },
+    {
+      "item": "computercraft:pocket_computer_normal{Upgrade:\"computercraft:speaker\"}",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:enchanting_table",
+      "emc": 0
+    },
+    {
+      "item": "minecolonies:blockhutenchanter",
+      "emc": 0
+    },
+    {
+      "item": "quark:golden_carrot_crate",
+      "emc": 0
+    },
+    {
+      "item": "computercraft:pocket_computer_normal{Upgrade:\"computercraft:wireless_modem_normal\"}",
+      "emc": 0
+    },
+    {
+      "item": "ars_nouveau:ritual_fertility",
+      "emc": 0
+    },
+    {
+      "item": "computercraft:wireless_modem_advanced",
+      "emc": 0
+    },
+    {
+      "item": "computercraft:turtle_normal{RightUpgrade:\"minecraft:diamond_sword\"}",
+      "emc": 0
+    },
+    {
+      "item": "computercraft:turtle_normal{RightUpgrade:\"minecraft:diamond_hoe\"}",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:slab_storage_uranium",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:gold_block",
+      "emc": 0
+    },
+    {
+      "item": "projecte:mobius_fuel_block",
+      "emc": 0
+    },
+    {
+      "item": "relics:researching_table",
+      "emc": 0
+    },
+    {
+      "item": "computercraft:turtle_normal{RightUpgrade:\"computercraft:wireless_modem_advanced\"}",
+      "emc": 0
+    },
+    {
+      "item": "supplementaries:netherite_trapdoor",
+      "emc": 0
+    },
+    {
+      "item": "createdeco:netherite_support",
+      "emc": 0
+    },
+    {
+      "item": "createdeco:netherite_bars",
+      "emc": 0
+    },
+    {
+      "item": "createdeco:netherite_bars_overlay",
+      "emc": 0
+    },
+    {
+      "item": "advancedperipherals:weak_automata_core",
+      "emc": 0
+    },
+    {
+      "item": "effortlessbuilding:reach_upgrade3",
+      "emc": 0
+    },
+    {
+      "item": "projecte:klein_star_ein",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:diamond_axe",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:diamond_pickaxe",
+      "emc": 0
+    },
+    {
+      "item": "minecolonies:mediumquarry",
+      "emc": 0
+    },
+    {
+      "item": "projecte:interdiction_torch",
+      "emc": 0
+    },
+    {
+      "item": "computercraft:turtle_normal{RightUpgrade:\"minecraft:diamond_pickaxe\"}",
+      "emc": 0
+    },
+    {
+      "item": "computercraft:turtle_normal{RightUpgrade:\"minecraft:diamond_axe\"}",
+      "emc": 0
+    },
+    {
+      "item": "computercraft:turtle_advanced",
+      "emc": 0
+    },
+    {
+      "item": "computercraft:turtle_advanced{RightUpgrade:\"minecraft:crafting_table\"}",
+      "emc": 0
+    },
+    {
+      "item": "computercraft:turtle_advanced{RightUpgrade:\"computercraft:speaker\"}",
+      "emc": 0
+    },
+    {
+      "item": "computercraft:turtle_advanced{RightUpgrade:\"computercraft:wireless_modem_normal\"}",
+      "emc": 0
+    },
+    {
+      "item": "computercraft:pocket_computer_advanced",
+      "emc": 0
+    },
+    {
+      "item": "computercraft:pocket_computer_advanced{Upgrade:\"computercraft:speaker\"}",
+      "emc": 0
+    },
+    {
+      "item": "computercraft:pocket_computer_advanced{Upgrade:\"computercraft:wireless_modem_normal\"}",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:sculk_shrieker",
+      "emc": 0
+    },
+    {
+      "item": "ars_nouveau:apprentice_spell_book",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:magenta_fuel",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:heart_of_the_sea",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:diamond_boots",
+      "emc": 0
+    },
+    {
+      "item": "effortlessbuilding:diamond_randomizer_bag",
+      "emc": 0
+    },
+    {
+      "item": "computercraft:pocket_computer_normal{Upgrade:\"computercraft:wireless_modem_advanced\"}",
+      "emc": 0
+    },
+    {
+      "item": "advancedperipherals:geo_scanner",
+      "emc": 0
+    },
+    {
+      "item": "tetra:forged_beam",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:storage_uranium",
+      "emc": 0
+    },
+    {
+      "item": "computercraft:turtle_advanced{RightUpgrade:\"minecraft:diamond_shovel\"}",
+      "emc": 0
+    },
+    {
+      "item": "tetra:earthpiercer",
+      "emc": 0
+    },
+    {
+      "item": "tetra:modular_single{id:\"a6fba635-4540-4c6e-8719-b097e9a49cf4\",\"single/basic_handle_material\":\"basic_handle/stick\",\"single/earthpiercer_material\":\"earthpiercer/earthpiercer\",\"single/handle\":\"single/basic_handle\",\"single/head\":\"single/earthpiercer\"}",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:diamond_helmet",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:conduit",
+      "emc": 0
+    },
+    {
+      "item": "projecte:condenser_mk1",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:basic_emc_link",
+      "emc": 0
+    },
+    {
+      "item": "computercraft:turtle_advanced{RightUpgrade:\"minecraft:diamond_sword\"}",
+      "emc": 0
+    },
+    {
+      "item": "computercraft:turtle_advanced{RightUpgrade:\"minecraft:diamond_hoe\"}",
+      "emc": 0
+    },
+    {
+      "item": "computercraft:turtle_advanced{RightUpgrade:\"computercraft:wireless_modem_advanced\"}",
+      "emc": 0
+    },
+    {
+      "item": "computercraft:pocket_computer_advanced{Upgrade:\"computercraft:wireless_modem_advanced\"}",
+      "emc": 0
+    },
+    {
+      "item": "tetra:stonecutter",
+      "emc": 0
+    },
+    {
+      "item": "tetra:modular_sword{id:\"5fc9fae8-6c21-4cb0-a465-f039ee94c800\",\"sword/basic_hilt_material\":\"basic_hilt/stick\",\"sword/blade\":\"sword/stonecutter\",\"sword/hilt\":\"sword/basic_hilt\",\"sword/stonecutter_material\":\"stonecutter/stonecutter\"}",
+      "emc": 0
+    },
+    {
+      "item": "computercraft:turtle_advanced{RightUpgrade:\"minecraft:diamond_pickaxe\"}",
+      "emc": 0
+    },
+    {
+      "item": "computercraft:turtle_advanced{RightUpgrade:\"minecraft:diamond_axe\"}",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:netherite_ingot",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:diamond_leggings",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:lodestone",
+      "emc": 0
+    },
+    {
+      "item": "supplementaries:safe",
+      "emc": 0
+    },
+    {
+      "item": "createdeco:netherite_sheet_slab",
+      "emc": 0
+    },
+    {
+      "item": "createdeco:netherite_sheet_slab_vert",
+      "emc": 0
+    },
+    {
+      "item": "farmersdelight:netherite_knife",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:diamond_chestplate",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:diamond_horse_armor",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:netherite_shovel",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:netherite_sword",
+      "emc": 0
+    },
+    {
+      "item": "nethersdelight:netherite_machete",
+      "emc": 0
+    },
+    {
+      "item": "projecte:aeternalis_fuel_block",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:diamond_block",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:netherite_hoe",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:basic_relay",
+      "emc": 0
+    },
+    {
+      "item": "projecte:relay_mk1",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:netherite_pickaxe",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:netherite_axe",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:basic_collector",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:netherite_boots",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:netherite_helmet",
+      "emc": 0
+    },
+    {
+      "item": "projecte:klein_star_zwei",
+      "emc": 0
+    },
+    {
+      "item": "createdeco:netherite_hull",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:netherite_leggings",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:netherite_chestplate",
+      "emc": 0
+    },
+    {
+      "item": "constructionwand:core_destruction",
+      "emc": 0
+    },
+    {
+      "item": "createdeco:netherite_sheet_stairs",
+      "emc": 0
+    },
+    {
+      "item": "createdeco:netherite_sheet_metal",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:pink_fuel",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:nether_star",
+      "emc": 0
+    },
+    {
+      "item": "projecte:dark_matter",
+      "emc": 0
+    },
+    {
+      "item": "constructionwand:infinity_wand",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:beacon",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:emerald_block",
+      "emc": 0
+    },
+    {
+      "item": "ars_nouveau:ritual_challenge",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:enchanted_golden_apple",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:mojang_banner_pattern",
+      "emc": 0
+    },
+    {
+      "item": "quark:golden_apple_crate",
+      "emc": 0
+    },
+    {
+      "item": "ars_nouveau:ritual_wilden_summon",
+      "emc": 0
+    },
+    {
+      "item": "advancedperipherals:overpowered_weak_automata_core",
+      "emc": 0
+    },
+    {
+      "item": "tetra:planar_stabilizer",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:dark_relay",
+      "emc": 0
+    },
+    {
+      "item": "projecte:relay_mk2",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:dark_collector",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:dragon_egg",
+      "emc": 0
+    },
+    {
+      "item": "projecte:zero_ring",
+      "emc": 0
+    },
+    {
+      "item": "projecte:black_hole_band",
+      "emc": 0
+    },
+    {
+      "item": "projecte:ignition_ring",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:pink_advanced_alchemical_chest",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:orange_advanced_alchemical_chest",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:red_advanced_alchemical_chest",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:cyan_advanced_alchemical_chest",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:gray_advanced_alchemical_chest",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:yellow_advanced_alchemical_chest",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:light_gray_advanced_alchemical_chest",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:black_advanced_alchemical_chest",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:white_advanced_alchemical_chest",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:purple_advanced_alchemical_chest",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:green_advanced_alchemical_chest",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:lime_advanced_alchemical_chest",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:magenta_advanced_alchemical_chest",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:light_blue_advanced_alchemical_chest",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:blue_advanced_alchemical_chest",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:brown_advanced_alchemical_chest",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:magenta_fuel_block",
+      "emc": 0
+    },
+    {
+      "item": "projecte:gem_of_eternal_density",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:dark_emc_link",
+      "emc": 0
+    },
+    {
+      "item": "projecte:hyperkinetic_lens",
+      "emc": 0
+    },
+    {
+      "item": "projecte:klein_star_drei",
+      "emc": 0
+    },
+    {
+      "item": "projecte:evertide_amulet",
+      "emc": 0
+    },
+    {
+      "item": "projecte:volcanite_amulet",
+      "emc": 0
+    },
+    {
+      "item": "projecte:red_matter",
+      "emc": 0
+    },
+    {
+      "item": "projecte:mercurial_eye",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:netherite_block",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:purple_fuel",
+      "emc": 0
+    },
+    {
+      "item": "projecte:dark_matter_block",
+      "emc": 0
+    },
+    {
+      "item": "projecte:watch_of_flowing_time",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:red_relay",
+      "emc": 0
+    },
+    {
+      "item": "projecte:relay_mk3",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:red_collector",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:basic_compressed_collector",
+      "emc": 0
+    },
+    {
+      "item": "projecte:mind_stone",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:pink_fuel_block",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:red_emc_link",
+      "emc": 0
+    },
+    {
+      "item": "projecte:catalytic_lens",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:magenta_matter",
+      "emc": 0
+    },
+    {
+      "item": "projecte:void_ring",
+      "emc": 0
+    },
+    {
+      "item": "projecte:klein_star_vier",
+      "emc": 0
+    },
+    {
+      "item": "projecte:red_matter_block",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:basic_power_flower",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:dark_compressed_collector",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:violet_fuel",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:magenta_relay",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:magenta_collector",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:matter_upgrader",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:magenta_emc_link",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:pink_matter",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:purple_fuel_block",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:dark_power_flower",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:red_compressed_collector",
+      "emc": 0
+    },
+    {
+      "item": "projecte:klein_star_sphere",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:pink_relay",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:pink_collector",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:blue_fuel",
+      "emc": 0
+    },
+    {
+      "item": "projecte:condenser_mk2",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:pink_emc_link",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:purple_matter",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:red_power_flower",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:violet_fuel_block",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:magenta_compressed_collector",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:purple_relay",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:purple_collector",
+      "emc": 0
+    },
+    {
+      "item": "projecte:klein_star_omega",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:cyan_fuel",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:purple_emc_link",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:violet_matter",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:magenta_power_flower",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:pink_compressed_collector",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:violet_relay",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:violet_collector",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:blue_fuel_block",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:magnum_star_ein",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:green_fuel",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:violet_emc_link",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:blue_matter",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:pink_power_flower",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:purple_compressed_collector",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:blue_relay",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:blue_collector",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:knowledge_sharing_book",
+      "emc": 1
+    },
+    {
+      "item": "projectexpansion:cyan_fuel_block",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:magnum_star_zwei",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:blue_emc_link",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:cyan_matter",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:lime_fuel",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:purple_power_flower",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:violet_compressed_collector",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:cyan_relay",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:cyan_collector",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:green_fuel_block",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:cyan_emc_link",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:magnum_star_drei",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:green_matter",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:violet_power_flower",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:blue_compressed_collector",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:yellow_fuel",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:green_relay",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:green_collector",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:lime_fuel_block",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:green_emc_link",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:blue_power_flower",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:lime_matter",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:magnum_star_vier",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:cyan_compressed_collector",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:lime_relay",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:lime_collector",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:orange_fuel",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:lime_emc_link",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:cyan_power_flower",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:yellow_fuel_block",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:yellow_matter",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:green_compressed_collector",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:magnum_star_sphere",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:yellow_relay",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:yellow_collector",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:white_fuel",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:yellow_emc_link",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:green_power_flower",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:lime_compressed_collector",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:orange_matter",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:orange_fuel_block",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:magnum_star_omega",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:orange_relay",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:orange_collector",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:orange_emc_link",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:lime_power_flower",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:yellow_compressed_collector",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:white_matter",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:white_fuel_block",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:white_relay",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:white_collector",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:colossal_star_ein",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:yellow_power_flower",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:white_emc_link",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:orange_compressed_collector",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:fading_matter",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:fading_relay",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:fading_collector",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:colossal_star_zwei",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:orange_power_flower",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:fading_emc_link",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:white_compressed_collector",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:colossal_star_drei",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:white_power_flower",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:fading_compressed_collector",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:colossal_star_vier",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:fading_power_flower",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:colossal_star_sphere",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:colossal_star_omega",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:final_star_shard",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:final_relay",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:final_collector",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:final_emc_link",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:transmutation_interface",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:final_compressed_collector",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:final_power_flower",
+      "emc": 0
+    },
+    {
+      "item": "projectexpansion:final_star",
+      "emc": 0
+    }
+  ]
+}

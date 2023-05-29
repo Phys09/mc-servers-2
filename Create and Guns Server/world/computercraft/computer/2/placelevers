@@ -1,0 +1,13 @@
+i = 0
+aut = peripheral.wrap("right")
+
+while (i < 340) do
+    if i%17 == 0 then
+        turtle.place()
+        sleep(1)
+        
+        aut.useOnBlock(1)
+    end
+    turtle.back()
+    i = i+1
+end
