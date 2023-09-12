@@ -1,0 +1,19 @@
+{
+	max_claim_chunks: 600
+	max_force_load_chunks: 40
+	extra_claim_chunks: 103
+	extra_force_load_chunks: 15
+	chunk_load_offline: true
+	chunks: {
+		"blue_skies:everdawn": [
+			{ x: 18, z: 33, time: 1694301915917L }
+			{ x: 19, z: 32, time: 1694301918145L }
+			{ x: 20, z: 33, time: 1694386672080L, force_loaded: 1694401138796L }
+			{ x: 18, z: 32, time: 1694301917468L }
+			{ x: 19, z: 33, time: 1694301918503L }
+			{ x: 21, z: 32, time: 1694386673005L }
+			{ x: 20, z: 32, time: 1694386672080L, force_loaded: 1694401138796L }
+			{ x: 21, z: 33, time: 1694386673005L }
+		]
+	}
+}
