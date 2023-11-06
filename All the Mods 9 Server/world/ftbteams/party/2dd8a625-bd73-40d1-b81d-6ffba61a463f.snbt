@@ -1,0 +1,39 @@
+{
+	id: "2dd8a625-bd73-40d1-b81d-6ffba61a463f"
+	type: "party"
+	owner: "e00d6f21-2889-4031-82fe-a7b53c076c6c"
+	ranks: {
+		e00d6f21-2889-4031-82fe-a7b53c076c6c: "owner"
+		669d890a-9ba5-4d0a-abb5-7d94d7b18c1c: "officer"
+		2b20a5bf-4ba2-448d-8854-9769611529a1: "officer"
+	}
+	properties: {
+		"ftbteams:display_name": "Phys09's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59E3FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1699147779782L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Phys09\"}]}" }
+		{ from: "e00d6f21-2889-4031-82fe-a7b53c076c6c", date: 1699147794069L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Endurium\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1699147798972L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Endurium\"}]}" }
+		{ from: "e00d6f21-2889-4031-82fe-a7b53c076c6c", date: 1699149285084L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"snakeshooting\"}]}" }
+		{ from: "e00d6f21-2889-4031-82fe-a7b53c076c6c", date: 1699149289371L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"Endurium\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1699149297022L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"snakeshooting\"}]}" }
+		{ from: "e00d6f21-2889-4031-82fe-a7b53c076c6c", date: 1699149302333L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"snakeshooting\"}]}" }
+	]
+	extra: { }
+}

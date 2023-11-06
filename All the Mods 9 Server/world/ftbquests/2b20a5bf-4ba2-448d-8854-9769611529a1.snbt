@@ -1,0 +1,16 @@
+{
+	version: 1
+	uuid: "2b20a5bf4ba2448d88549769611529a1"
+	name: "snakeshooting#2b20a5bf"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: {
+		072FA02152FBC5B1: 1699148066737L
+	}
+	claimed_rewards: {
+		"2b20a5bf4ba2448d88549769611529a1:45B4971B15822AF8": 1699149179328L
+	}
+	player_data: { }
+}
